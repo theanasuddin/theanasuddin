@@ -34,8 +34,6 @@ Skills: Java, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
   
   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/theanasuddin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/theanasuddin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/theanasuddin/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://theanasuddin.netlify.app/)
-
   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanasuddin&show_icons=true)
