@@ -36,5 +36,5 @@ Skills: Java, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
   
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanasuddin&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theanasuddin&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&custom_title=My%20GitHub%20Stats&include_all_commits=true)
 
