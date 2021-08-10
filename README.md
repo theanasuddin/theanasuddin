@@ -19,7 +19,7 @@ Skills: Java, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
 - 🌱 I’m currently learning Data Structure and Algorithms.
 
-- 👯 I’m looking to collaborate on Mobile Development.
+- 👯 I’m looking to collaborate on Desktop Development.
 
 - 🤔 I’m looking for help with interview prep.
 
