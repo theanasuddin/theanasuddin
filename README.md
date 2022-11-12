@@ -11,17 +11,17 @@ Hi... It's my pleasure to introduce myself! Well, I am Anas, born & raised in Ba
 
   
 
-Skills: Java, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
+Skills: Java, Spring, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
   
 
-- 🔭 I’m currently working on problem solving.
+- 🔭 I’m currently working on enterprise systems.
 
-- 🌱 I’m currently learning Data Structure and Algorithms.
+- 🌱 I’m currently learning aout [Spring Framework](https://spring.io/) in depth.
 
-- 👯 I’m looking to collaborate on Desktop Development.
+- 👯 I’m looking to collaborate on APIs.
 
-- 🤔 I’m looking for help with interview prep.
+- 🤔 I’m looking for help with Java Spring.
 
 - 💬 Ask me about code.
 
@@ -29,7 +29,7 @@ Skills: Java, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
 - 😄 Pronouns: He or Him.
 
-- ⚡ Fun fact: I can do 80 pushups at one go.
+- ⚡ Fun fact: I can do 80 pushups at one go, 15 pull-ups at a time 😄.
 
   
   
