@@ -17,7 +17,7 @@ Skills: Java, Spring, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
 - 🔭 I’m currently working on enterprise systems.
 
-- 🌱 I’m currently learning aout [Spring Framework](https://spring.io/) in depth.
+- 🌱 I’m currently learning about [Spring Framework](https://spring.io/) in depth.
 
 - 👯 I’m looking to collaborate on APIs.
 
