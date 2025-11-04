@@ -25,7 +25,7 @@ Skills: Java, Spring, JavaScript, HTML, CSS, MySQL, JavaFX, Android & more.
 
 - 💬 Ask me about code.
 
-- 📫 How to reach me: https://theanasuddin.netlify.app/
+- 📫 How to reach me: https://anas-uddin.vercel.app/
 
 - 😄 Pronouns: He or Him.
 
