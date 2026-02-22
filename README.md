@@ -167,7 +167,7 @@ A web‑based typing game with 3 difficulty levels
 Deep RL agent trained on 50,000 episodes for 2D games  
 **Tech:** Python, PyGame
 
-#### **Smart Road Weather Dashboard**
+#### **[Smart Road Weather Dashboard](https://github.com/theanasuddin/Smart-Road-Weather-Dashboard/)**
 
 Real‑time road, traffic & weather dashboard for Finland  
 **Tech:** React, Redux, Material UI, Recharts, Leaflet, Spring Boot, Docker, FMI & Digitraffic APIs
