@@ -17,7 +17,7 @@ Over the past **4+ years**, I've delivered high‑impact solutions for clients i
 -   API design, backend architecture, and frontend integration
 -   Data‑driven development, dashboards, and analytics
 -   Building intuitive, human‑centered digital experiences
--   Cross‑cultural Agile collaboration (Finland 🇫🇮 & Japan 🇯🇵)
+-   Cross‑cultural Agile collaboration (Finland & Japan)
 
 ----------
 
