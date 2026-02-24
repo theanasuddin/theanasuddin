@@ -87,12 +87,14 @@ Worked on large‑scale international projects for clients in Finland and Japan.
 ### **[Tampere University](https://www.tuni.fi/en), Finland**
 
 **MSc Data Science (Minor: Software, Web & Cloud Technologies)**  
+Completed ECTS: 38 / 120
 2025 – Present
 
 ### **[North South University](https://www.northsouth.edu/), Bangladesh**
 
 **BSc Computer Science & Engineering**  
 CGPA: 3.56 / 4.00 (Cum Laude)
+2015 – 2020
 
 ----------
 
